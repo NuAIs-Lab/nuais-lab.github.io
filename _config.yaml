@@ -1,15 +1,8 @@
-# site properties and page defaults
 title: NuAIs Lab
 subtitle: Institute of Nuclear and Particle Physics (INPP), NCSR Demokritos
 description: NuAIs Lab — Neutrinos, AI, Sensors. Research on neutrino physics, machine learning and detector instrumentation at NCSR Demokritos, Greece.
-header: images/background.jpg
-footer: images/background.jpg
-proofer: false
-
-# site properties and page defaults
-title: Lab Website Template
-subtitle: by the Greene Lab
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+url: "https://nuais-lab.github.io"
+baseurl: ""
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
