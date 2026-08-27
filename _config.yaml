@@ -1,6 +1,6 @@
-title: NuAIs Lab
-subtitle: Institute of Nuclear and Particle Physics (INPP), NCSR Demokritos
-description: NuAIs Lab — Neutrinos, AI, Sensors. Research on neutrino physics, machine learning and detector instrumentation at NCSR Demokritos, Greece.
+title: NuAIs-Lab
+subtitle: 
+description: An engaging 1-3 sentence description of your lab.
 url: "https://nuais-lab.github.io"
 baseurl: ""
 header: images/background.jpg
@@ -9,12 +9,12 @@ proofer: false
 
 # site social media and other links
 links:
-  email: ""
+  email: contact@NuAIs-Lab.com
   orcid: ""
   google-scholar: ""
-  github: nuais-lab
-  twitter: ""
-  youtube: ""
+  github: NuAIs-Lab
+  twitter: NuAIs-Lab
+  youtube: NuAIs-Lab
 
 ### jekyll settings
 
