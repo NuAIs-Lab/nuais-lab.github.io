@@ -3,7 +3,7 @@
 
 # NuAIs-Lab's Website
 
-An engaging 1-3 sentence description of your lab.
+NuAIs Lab — Neutrinos, AI, Sensors. Research on neutrino physics, machine learning and detector instrumentation at NCSR Demokritos, Greece.
 
 {% include section.html %}
 
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We study neutrino physics using large-scale detectors — KM3NeT/ARCA, ANNIE and Hyper-K combining Cherenkov-light detection with machine learning to reconstruct particle properties and select signal from background using raw sensor data.
 
 {%
   include button.html
