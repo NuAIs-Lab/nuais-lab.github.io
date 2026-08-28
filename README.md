@@ -3,6 +3,6 @@
   ![on-pull-request](../../actions/workflows/on-pull-request.yaml/badge.svg)
   ![on-schedule](../../actions/workflows/on-schedule.yaml/badge.svg)
 
-  # NuAIs-Lab's Website
+  # NuAIs Lab's Website
 
   Visit **[nuais-lab.github.io](https://nuais-lab.github.io)** 🚀
