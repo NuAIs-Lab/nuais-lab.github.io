@@ -1,6 +1,8 @@
 title: NuAIs Lab
 subtitle: 
 description: An engaging 1-3 sentence description of your lab.
+show-title: false
+show-subtitle: false
 url: "https://nuais-lab.github.io"
 baseurl: ""
 header: images/background.jpg
