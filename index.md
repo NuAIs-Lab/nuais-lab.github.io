@@ -1,10 +1,6 @@
 ---
 ---
 
-# NuAIs-Lab's Website
-
-NuAIs Lab — Neutrinos, AI, Sensors. Research on neutrino physics, machine learning and detector instrumentation at NCSR Demokritos, Greece.
-
 {% include section.html %}
 
 ## Highlights
